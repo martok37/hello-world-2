@@ -12,3 +12,5 @@ Changes, changes... (sensor)
 Ala ma kota
 
 Kolejne zmiany sensorowe
+
+I jeszcze torchę
