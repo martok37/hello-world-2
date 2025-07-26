@@ -1,6 +1,10 @@
+Something before
+
 I
 am
 a
 very
 ...
 man
+
+Something after
