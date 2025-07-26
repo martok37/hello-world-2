@@ -4,3 +4,9 @@ a
 very
 happy
 man
+
+Indeed
+preceding
+sentence
+is
+true
