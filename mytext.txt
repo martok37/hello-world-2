@@ -1,1 +1,6 @@
 Some text added
+
+New lines
+--
+--
+--
