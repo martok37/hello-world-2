@@ -17,3 +17,6 @@ I jeszcze torchę
 
 
 Zmiana README w GitHub
+
+
+Jeszcze trochę zmian
