@@ -14,3 +14,6 @@ Ala ma kota
 Kolejne zmiany sensorowe
 
 I jeszcze torchę
+
+
+Zmiana README w GitHub
